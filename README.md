@@ -13,6 +13,3 @@ I'm a passionate Software Engineer based in Italy. I specialize in building clou
 - Languages: JavaScript, Go and Python.
 - Frontend: HTML, CSS, js, Vue.js, React.
 - Cloud: Docker, Kubernetes, AWS, CI/CD
-
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
