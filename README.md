@@ -7,7 +7,7 @@ I'm a passionate Software Engineer based in Italy. I specialize in building clou
 - 🌱 I’m currently learning more on CRDs in kubernetes.
 - 👯 I’m looking to collaborate on a Go or Vue project.
 - 📫 How to reach me: gaba.bouliva@gmail.com.
-- ⚡ Fun fact: I'm CKAD certified 😊.
+- ⚡ Fun fact: I'm CKAD certified and more is coming...😊.
 
 ## My Tech Stack
 - Languages: JavaScript, Go and Python.
