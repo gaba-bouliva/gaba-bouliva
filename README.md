@@ -10,6 +10,6 @@ I'm a Software Engineer based in Italy. I specialize in building cloud native an
 - ⚡ Fun fact: I'm CKAD certified and more is coming...😊.
 
 ## My Tech Stack
-- Languages: Go, JavaScript and Python.
+- Languages: Go, JavaScript, Python and PHP.
 - Frontend: HTML, CSS, js, Vue.js, React.
 - Cloud: Docker, Kubernetes, AWS, CI/CD
