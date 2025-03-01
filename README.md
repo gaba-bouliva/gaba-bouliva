@@ -7,7 +7,7 @@ I'm a Software Engineer based in Italy. I specialize in building cloud native an
 - 🌱 I’m currently learning more on CRDs in Kubernetes.
 - 👯 I’m looking to collaborate on a Go, JavaScript or Vue project.
 - 📫 How to reach me: gaba.bouliva@gmail.com.
-- ⚡ Fun fact: I'm CKAD certified and more is coming...
+- ⚡ Fun fact: I'm CKAD certified and more is coming.
 
 ## My Tech Stack
 - Languages: Go, JavaScript.
