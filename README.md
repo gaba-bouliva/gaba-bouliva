@@ -1,6 +1,6 @@
 ## Hi, I'm Gaba 👋
 
-I'm a Software Engineer based in Italy. I specialize in building cloud native and web applications which are scalable and efficient. I enjoy learning new technologies, solving problems, and creating seamless user experiences.
+I'm a Software Developer based in Italy. I specialize in building cloud native and web applications which are scalable and efficient. I enjoy learning new technologies, solving problems, and creating seamless user experiences.
 
 ## About Me
 - 🔭 I’m currently working on ARPA project a no code agile ERP and CRM application.
