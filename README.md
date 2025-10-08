@@ -39,7 +39,7 @@ Go test, Jest
 
 ## 📌 Featured Projects
 
-### 🔹 [Vue.js Weather App](https://gaba-bouliva-weather-app.netlify.app)
+### 🔹 [Responsive JavaScript Weather App](https://gaba-bouliva-weather-app.netlify.app)
 A frontend weather app built with Vue.js that consumes weather APIs and features dynamic UI updates.
 
 ### 🔹 [Gator CLI App](https://github.com/gaba-bouliva/gator)
