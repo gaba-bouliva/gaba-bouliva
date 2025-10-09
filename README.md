@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gaba Bouliva
+# 👋 Hi, I'm Gaba Bouliva Ndang
 
 I'm a Software Developer based in Italy with 5+ years of experience building scalable, cloud-native applications using Go and Vue.js. I specialize in backend development with Go (Gin/Fiber) and frontend development with Vue.js, coupled with experience deploying and maintaining applications in cloud environments (AWS, Docker, Kubernetes).
 
